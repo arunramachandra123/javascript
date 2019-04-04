@@ -14,7 +14,6 @@ if (temperature>=60) {
   alert('temperature is hot')
   hot=true
   console.log(hot)
-
 }
 else {
     alert('temperature is not hot')
